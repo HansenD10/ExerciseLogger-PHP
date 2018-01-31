@@ -1,1 +1,1 @@
-# MadLibs-PHP
+# Exercise Logger - PHP
